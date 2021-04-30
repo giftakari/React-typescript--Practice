@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "member-access": false
+  },
+  
+    "extends": "tslint:recommended"
+
+}
